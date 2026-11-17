@@ -1,0 +1,9 @@
+# Data never goes into git: inputs, outputs, database, session key
+data/
+reports/
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
